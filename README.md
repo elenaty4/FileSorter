@@ -10,7 +10,8 @@ This comes with in three C programs:
 <p>Quick Sort (Coming Soon)</p>
 
 <h3>Random Number List File Generator</h3>
-<p>This program creates a .txt file that has a list of random numbers with a range depending on your input</p>
+<p>This program creates a .txt file that has a list of random numbers with a range depending on your input. The generated file will 
+always be called whatever you want to call it</p>
 
 <h3>Sorting List File</h3>
 <p>This program reads a file containing a list of random numbers (The Random Number List File Generator can create one for you) and
